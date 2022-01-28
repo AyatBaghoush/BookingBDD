@@ -1,0 +1,15 @@
+
+
+1. Verify that all Destination field is mandatory
+2. Verify that 5 popular nearby destinations are displayed upon clicking the destination field
+3. Verify that typing a letter displays 5 places has such letter as initial
+4. Verify that upon filling the destination, calender is displayed to the user
+5. Verify that the calender shows the current and next months
+6. Verify that user can only select dates from the future (Note: User can not move to the previous month / days before today's date are dimmed)
+7. Verify that user can select valid checkin and checkout dates
+8. Verify that user cannot set the checkout date to be older than the checkin date
+9. Verify the checkin and checkout dates can not be the same 
+10. Verify that number of adults could not be less than 1 or more than 30
+11. Verify that number of children could not exceed 10
+12. Verify that number rooms could not be less than 1 or exceed 30
+13. Verify that the number of age textboxes equal to the number of children
